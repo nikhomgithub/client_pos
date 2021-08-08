@@ -1,0 +1,154 @@
+
+
+[
+  {
+    _id: '60f7d901e106560013727bd3',
+    tableName: 'basicDataTableTemplate',
+    id: 1,
+    template: [
+    {
+      _id: '60f7d901e106560013727bd4',
+      colName: 'id',
+      lb: 'ไอดี',
+      type: 'number',
+      width: '50',
+      showCol: true,
+      showColHead: true
+    },
+    {
+      _id: '60f7d901e106560013727bd5',
+      colName: 'routeAddress',
+      lb: 'url',
+      type: 'string',
+      width: '200',
+      showCol: true,
+      showColHead: true
+    },
+    {
+      _id: '60f7d901e106560013727bd6',
+      colName: 'routeName',
+      lb: 'ชื่อสิทธิ์',
+      type: 'string',
+      width: '100',
+      showCol: true,
+      showColHead: true
+    },
+    {
+      _id: '60f7d901e106560013727bd7',
+      colName: 'userLevel',
+      lb: 'กลุ่มผู้มีสิทธิ์',
+      type: 'array',
+      width: '350',
+      showCol: true,
+      showColHead: true
+    }
+  ],
+    __v: 0
+  },
+  {
+    _id: '60f7d901e106560013727bd8',
+    tableName: 'productTableTemplate',
+    id: 1,
+    template: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    __v: 0
+  },
+  {
+    _id: '60f7d901e106560013727be7',
+    tableName: 'productDetailTableTemplate',
+    id: 1,
+    template: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    __v: 0
+  },
+  {
+    _id: '60f7d901e106560013727bf5',
+    tableName: 'partnerTableTemplate',
+    id: 1,
+    template: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    __v: 0
+  },
+  {
+    _id: '60f7d901e106560013727bff',
+    tableName: 'transactionTableTemplate',
+    id: 1,
+    template: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    __v: 0
+  },
+  {
+    _id: '60f7d901e106560013727c0f',
+    tableName: 'transactionLogTableTemplate',
+    id: 1,
+    template: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    __v: 0
+  },
+  {
+    _id: '60f7d901e106560013727c20',
+    tableName: 'transactionGraphTableTemplate',
+    id: 1,
+    template: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    __v: 0
+  },
+  {
+    _id: '60f7d901e106560013727c2d',
+    tableName: 'transactionWiDetailGraphTableTemplate',
+    id: 1,
+    template: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    __v: 0
+  }
+]
